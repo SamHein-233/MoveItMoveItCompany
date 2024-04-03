@@ -1,7 +1,12 @@
 {
 	"FileVersion": 3,
+<<<<<<< Updated upstream
 	"Version": 20220,
 	"VersionName": "2.02.20",
+=======
+	"Version": 20221,
+	"VersionName": "2.02.21",
+>>>>>>> Stashed changes
 	"FriendlyName": "FMOD Studio Niagara Integration",
 	"Description": "FMOD Studio with Niagara Integration.",
 	"Category": "Audio",
