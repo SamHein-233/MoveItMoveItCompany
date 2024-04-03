@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 // Copyright (c), Firelight Technologies Pty, Ltd. 2012-2023.
+=======
+// Copyright (c), Firelight Technologies Pty, Ltd. 2012-2024.
+>>>>>>> Stashed changes
 
 using UnrealBuildTool;
 using System;
