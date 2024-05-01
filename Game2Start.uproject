@@ -21,6 +21,10 @@
 		{
 			"Name": "TDxUnrealEditor",
 			"Enabled": false
+		},
+		{
+			"Name": "FMODStudio",
+			"Enabled": true
 		}
 	]
 }
